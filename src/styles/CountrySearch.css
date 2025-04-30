@@ -1,0 +1,38 @@
+.container {
+    text-align: center;
+  }
+
+input{
+    padding: 10px 20px;
+}
+
+button{
+    background-color: rgb(176, 212, 245);
+    padding: 10px 20px;
+    border: none;
+    margin: 5px;
+}
+
+button:hover{
+    background-color: #4c90af;
+}
+  
+  .suggestions {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .suggestions button {
+    background-color: #6c9aae;
+    color: white;
+    padding: 10px 20px;
+    margin: 5px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .suggestions button:hover {
+    background-color: #456ca0;
+  }
+
